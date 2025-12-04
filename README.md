@@ -105,7 +105,7 @@ LaTeX example code, to include this figure into your LaTeX document. Add the fig
 ### Option 2: Inkscape integrated formula editor
 Navigate to `Extensions` -> `Text` (or `Render`, depending on the Inkscape version) -> `Formula (pdflatex)` and type your formula using LaTeX syntax.
 
-### Option 3: Install LaTeX font as system font (Linux users only)
+### Option 3: Install LaTeX font as system font 
 Debian based systems (untested):
 ```
 apt install lmodern
@@ -115,6 +115,12 @@ Arch Linux based systems:
 ```
 pacman install otf-latin-modern otf-latinmodern-math
 ```
+
+Windows systems:
+ * Download and unzip the "Latin Modern Roman" font as OTF-files from a source you trust
+ * Mark all ".otf"-files, right-click and select "Install for all users"
+ * Restart Inkscape
+
 Now, you will find the font `Latin Modern Roman` inside your Inkscape fonts.
 If not available, look for `LMRoman12` or any other number in the end, where the number represents the font size.
 
