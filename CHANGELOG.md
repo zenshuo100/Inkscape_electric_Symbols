@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Opto-isolators
  - Phototransistors (NPN, PNP)
  - Motor with integrated inductance/sources
+ - OTA (operational transconductance amplifier)
  
 ### Fixed
  - input arrow missing for 'Limitation' block diagrams

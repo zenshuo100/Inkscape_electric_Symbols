@@ -17636,6 +17636,140 @@
          cy="44.322906"
          r="2.6458333" />
     </symbol>
+    <symbol
+       id="ota_medium">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-6"
+         d="m 238.12501,256.64587 v 7.9375"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-5-2"
+         d="m 240.77084,257.96879 v 5.29166"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-6"
+         d="m 238.12501,256.64587 2.64584,1.32292"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-1-1"
+         d="m 240.77085,263.26045 -2.64584,1.32292"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-7-8"
+         d="m 240.77085,260.61462 h 1.32291"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-7-9-7"
+         d="M 236.80209,257.96879 H 238.125"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-7-6-9"
+         d="M 236.80209,263.26045 H 238.125"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:LMRoman12;-inkscape-font-specification:LMRoman12;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="238.31551"
+         y="258.98056"
+         id="text5-2"><tspan
+           sodipodi:role="line"
+           id="tspan5-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="238.31551"
+           y="258.98056">+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:LMRoman12;-inkscape-font-specification:LMRoman12;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="238.57626"
+         y="263.55902"
+         id="text5-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan5-6-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="238.57626"
+           y="263.55902">-</tspan></text>
+    </symbol>
+    <symbol
+       id="ota_small">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675"
+         d="m 228.86459,257.96879 v 5.29166"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-5"
+         d="m 231.51043,259.2917 v 2.64584"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2"
+         d="m 228.86459,257.96878 2.64584,1.32292"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-1"
+         d="m 231.51043,261.93753 -2.64584,1.32292"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-7"
+         d="m 231.51043,260.61462 h 1.32291"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-7-9"
+         d="m 227.54168,259.2917 h 1.32291"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-675-2-7-6"
+         d="m 227.54168,261.93754 h 1.32291"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:LMRoman12;-inkscape-font-specification:LMRoman12;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="229.05508"
+         y="260.18433"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="229.05508"
+           y="260.18433">+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:LMRoman12;-inkscape-font-specification:LMRoman12;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="229.31584"
+         y="262.32812"
+         id="text5-0"><tspan
+           sodipodi:role="line"
+           id="tspan5-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="229.31584"
+           y="262.32812">-</tspan></text>
+    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -17657,8 +17791,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="32"
      inkscape:window-x="0"
-     inkscape:window-height="955"
-     inkscape:window-width="1280"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -17668,8 +17802,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="904.82998"
-     inkscape:cx="1323.5356"
+     inkscape:cy="949.77579"
+     inkscape:cx="1301.0627"
      inkscape:zoom="0.42273135"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -23251,23 +23385,23 @@
          sodipodi:role="line">AND</tspan></text>
     <text
        id="text26029-36"
-       y="303.19739"
+       y="321.71823"
        x="239.48517"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="303.19739"
+         y="321.71823"
          x="239.48517"
          id="tspan26027-7"
          sodipodi:role="line">Multiplexer</tspan></text>
     <text
        id="text26029-36-5"
-       y="303.19739"
+       y="321.71823"
        x="271.97031"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="303.19739"
+         y="321.71823"
          x="271.97031"
          id="tspan26027-7-3"
          sodipodi:role="line">Demultiplexer</tspan></text>
@@ -46215,75 +46349,75 @@
     <use
        xlink:href="#g28829"
        id="use210492"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28962"
        id="use214109"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28977"
        id="use217756"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28990"
        id="use221432"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28948"
        id="use225134"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28840"
        id="use228860"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28851"
        id="use232609"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28936"
        id="use236382"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g29003"
        id="use240181"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g29018"
        id="use244009"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28924"
        id="use247867"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28864"
        id="use251753"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28875"
        id="use255664"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28910"
        id="use259599"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g29031"
        id="use263560"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g29044"
        id="use267548"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28898"
        id="use271562"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <use
        xlink:href="#g28886"
        id="use275600"
-       transform="translate(13.229166,93.92708)" />
+       transform="translate(13.229169,112.44794)" />
     <g
        id="g13133"
        transform="translate(-1.3229157,50.270859)">
@@ -48750,5 +48884,22 @@
          id="path5953-8-8"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     </g>
+    <text
+       id="text26045-5"
+       y="267.97003"
+       x="217.0889"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="267.97003"
+         x="217.0889"
+         id="tspan26043-4"
+         sodipodi:role="line">Operational transconductance amplifier (OTA)</tspan></text>
+    <use
+       xlink:href="#ota_medium"
+       id="use13" />
+    <use
+       xlink:href="#ota_small"
+       id="use14" />
   </g>
 </svg>
