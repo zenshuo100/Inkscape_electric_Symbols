@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Phototransistors (NPN, PNP)
  - Motor with integrated inductance/sources
  - OTA (operational transconductance amplifier)
+ - another version of common used current source symbol
  
 ### Fixed
  - input arrow missing for 'Limitation' block diagrams
